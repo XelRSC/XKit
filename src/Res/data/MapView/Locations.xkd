@@ -1,0 +1,197 @@
+[FileInfo]
+Info=LocationsData
+Version=1.0
+Serial=null
+Author=Xel
+Gen=XKit Filegen.exe
+Format=#SV + Headers
+Header=[*]
+Description=Used to store map locations
+[Locations]
+Lunar Isle#311,697
+Pirates Cove#447,817
+Fremennik Isles#755,691
+Neitiznot#674,807
+Jatizso#813,807
+Iceberg#1402,358
+Miscellania#1119,688
+Etceteria#91240,695
+Waterbirth Island#1074,930
+Trollweiss Mountain#1590,721
+Ice Path#1743,827
+Here be penguins#1278,519
+Lighthouse#1051,1169
+Rellekka#1374,1085
+Keldagrim Entrance#1462,1020
+Fremennik Province#1388,1180
+Mountain Camp#1601,1106
+Troll Stronghold#1704,1083
+Golden Apple Tree#1561,1228
+Trollheim#1814,1088
+Death Plateau#1758,1262
+Sinclair Mansion#1513,1346
+Barbarian Assault#1069,1297
+Barbarian Outpost#1141,1323
+Piscatoris Fishing Colony#715,1058
+Frozen Waste Plateau#1980,609
+Pirates Hideout#2115,547
+Mage Arena#2240,581
+Deserted Keep#2345,571
+Scorpion Pit#2500,557
+Rogues Castle#2606,586
+Lava Maze#2185,758
+Red Dragon Isle#2431,800
+Demonic Ruins#2618,678
+Wilderness#2321,902
+Bone Yard#2518,951
+The Forgotten Cemetery#1990,939
+Bandit Camp#402,430
+Dark Warriors Fortress#2090,1182
+Graveyard of Shadows#2362,1104
+Chaos Temple#2511,1226
+Eagles Peak#705,1475
+Tree Gnome Stronghold#896,1535
+Gnome Ball Field#828,1467
+Grand Tree#968,1448
+Otto's Grotto#1034,1465
+Baxtorian Falls#1060,1515
+Combat Training Camp#1070,1701
+Outpost#899,1753
+Arandar#709,1854
+Prifddinas#507,1830
+Elf Camp#429,1932
+Isafdar#520,2075
+Tyras Camp#402,2160
+Port Tyras#343,2203
+Poison Waste#509,2251
+LLetya#722,2090
+Underground Pass#916,1814
+West Ardougne#1085,1830
+East Ardougne#1223,1850
+Ardougne Zoo#1260,1903
+Witchhaven#1454,1868
+Fishing Platform#1589,1882
+Necromancer#1368,1959
+Clocktower#1172,1962
+Battlefield#1077,1980
+Tower of Life#1326,2013
+Monastery#1241,2013
+Port Khazard#1347,2068
+Trawler#1412,2113
+Fight Arena#1219,2122
+Tree Gnome Village#1086,2101
+Observatory#911,2144
+Castle Wars#894,2225
+Yanille#1130,2263
+Wizards Guild#1212,2294
+Jiggig#963,2355
+Gu'Tanoth#1086,2357
+Feldip Hills#1165,2475
+Kingdom of Kandarin#1180,1562
+Fishing Guild#1248,1641
+Coal Trucks#1230,1465
+McGrubor's Wood#1328,1489
+Seers Village#1414,1469
+Camelot Castle#1553,1440
+Flax&Beehives#1537,1558
+Ranging Guild#1359,1568
+Hemenster#1298,1565
+Keep Le Faye#1572,1652
+Sorcerer's Tower#1434,1636
+Legends Guild#1498,1702
+Burthorpe#1822,1350
+Warriors Guild#1738,1321
+White Wolf Mountain#1730,1465
+Catherby#1672,1580
+Heroes Guild#1823,1444
+Chaos Temple#1899,1399
+Druids Circle#1882,1500
+Taverley#1828,1532
+Entrana#1728,1684
+Crandor#1705,1905
+Brimhaven#1582,2096
+Musta Point#1820,2118
+Tai Bwo Wannai#1623,2311
+Karamja#1753,2334
+Shilo Village#1731,2476
+Cairn Isle#1558,2491
+Kharazi Jungle#1712,2603
+Ship Yard#2004,2336
+Marim#1577,2879
+Ape Atoll#1537,2940
+Void Knights Outpost#1300,3089
+Pest Controls#1407,3164
+Crash Island#1866,3000
+Goblin Village#1961,1444
+Black Knights FOrtress#2062,1404
+Ice Mountain#2050,1477
+Dwarven Mine#2062,1562
+Monastery#2135,1468
+Edgeville#2223,1475
+Barbarian Village#2155,1618
+Cooks Guild#2305,1574
+Varrock#2449,1547
+Varrock Palace#2455,1480
+Lumber Yard#5644,1431
+Champions Guild#2432,1746
+Kingdom of Misthalin#2458,1806
+Draynor Manor#2248,1756
+Kingdom of Asgarnia#2003,1624
+Dark Wizards Tower#1847,1777
+Falador#2006,1735
+White Knights Castle#1958,1754
+Crafting Guild#1877,1882
+Melzar's Maze#1894,1948
+Rimmington#1944,2006
+Port Sarim#2122,2005
+Mudskipper Point#2006,2212
+Tutorial Island#2240,2250
+Wizards Tower#2252,2136
+Draynor Market#2205,1939
+Draynor Jail#2284,1961
+Draynor Village#2275,1913
+Lumbridge#2506,1983
+Lumbridge Swamp#2428,2076
+Digsite#2758,1607
+Exam Centre#2750,1760
+Mage Training Arena#2765,1842
+Duel Arena#2747,1978
+Al Kharid#2622,2149
+Shantay Pass#2640,2196
+Kalphite Lair#2480,2250
+Bedabin Camp#2372,2372
+Desert Mining Camp#2611,2392
+River Elid#2773,2311
+Ruins of Uzer#2992,2247
+Pollnivneach#2742,2494
+Bandit Camp#2392,2489
+Kharidian Desert#2556,2534
+Quarry#2378,2625
+Pyramid#2500,2649
+Nardah#2893,2642
+Agility Pyramid#2754,2763
+Menaphos#2499,2882
+Sophanem#2631,2884
+River Lum#2363,1744
+Mos Le'Harmless#3472,2386
+Harmony#3649,2725
+River Salve#2844,1570
+Slayer Tower#2885,1337
+Temple#2871,1471
+Mausoleum#3034,1306
+Fenkenstrain's Castle#3133,1344
+Ectofuntus#3344,1410
+Dragontooth Island#3647,1325
+Port Phasmatys#3378,1469
+Haunted Woods#3167,1473
+Canifis#3015,1473
+Morytania#2967,1562
+Mort Myre Swamp#2906,1681
+The Hollows#3032,1680
+Mort'ton#3007,1882
+Abandoned Mine#2917,1960
+Burgh de Rott#3023,2009
+Barrows#3168,1861
+Castle Drakan#3139,1726
+Sanguinesti region#3322,1767
+Meiyerditch#3263,1925

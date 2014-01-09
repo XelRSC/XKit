@@ -1,0 +1,17 @@
+<Plugin id="XKit">
+	<Package id="Resources">
+		<version>0.9</version>
+	</Package>
+	<Package id="Coordinates">
+		<version>1.0</version>
+	</Package>
+	<Package id="Dungeons">
+		<version>0.8</version>
+	</Package>
+	<Package id="GUI">
+		<version>1.0</version>
+	</Package>
+	<Package id="Maps">
+		<version>1.0</version>
+	</Package>
+</Plugin>
